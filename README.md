@@ -8,7 +8,7 @@ The purpose of this assignment was to use JavaScript’s visual functionality to
 
 ## Results
 <p>
-    <img src="ttps://github.com/hollyouellette/UFOs/blob/main/resources/filter_search_list.png" alt>
+    <img align="right" width=400 src="https://github.com/hollyouellette/UFOs/blob/main/resources/filter_search_list.png" alt>
     <em>Fig 1 - Empty filters showcasing the entire dataset on the table</em>
 </p>
 
