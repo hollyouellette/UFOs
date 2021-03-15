@@ -20,7 +20,7 @@ After entering a filter, if the table showcases no data then one of the followin
 2.	The filter entered does not exist in this table’s data.
 3.	The filter parameters are too specific and there is no row within the table that matches all of the conditions.
 
-_**Example**:_
+_**Example**:_<br>
 <img align="center" width=600 src="https://github.com/hollyouellette/UFOs/blob/main/resources/no_matches.png">
 
 ## Summary
