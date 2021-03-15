@@ -23,7 +23,9 @@ After entering a filter, if the table showcases no data then one of the followin
 <br>
 
 _Example:_<br>
-<img align="center" width=600 src="https://github.com/hollyouellette/UFOs/blob/main/resources/no_matches.png">
+<p align="center">
+<img width=600 src="https://github.com/hollyouellette/UFOs/blob/main/resources/no_matches.png">
+</p>
 
 ## Summary
 
