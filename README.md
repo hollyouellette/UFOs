@@ -11,7 +11,7 @@ The purpose of this assignment was to use JavaScript’s visual functionality to
 <br>
 Using this new webpage, we are able to filter by one or multiple search parameters based on the user’s area or areas of focus in the dataset.<br> 
 
-<img align="right" width=500 src="https://github.com/hollyouellette/UFOs/blob/main/resources/multiple_filters.png">
+<br><img align="right" width=500 src="https://github.com/hollyouellette/UFOs/blob/main/resources/multiple_filters.png">
 <br>
 To start, the user enters their desired filter. By pushing ‘tab’ or ‘enter’ on their keyboard or simply clicking outside of the input box, the website responds immediately, showcasing only the rows of data that contain the filter entered by the user. The user is also able to refine their search by adding additional filters that are more specific to their data of interest.
 <br>
@@ -21,7 +21,10 @@ After entering a filter, if the table showcases no data then one of the followin
 2.	The filter entered does not exist in this table’s data.
 3.	The filter parameters are too specific and there is no row within the table that matches all of the conditions.
 
-Summary
+_**Example**:_
+<img align="center" width=600 src="https://github.com/hollyouellette/UFOs/blob/main/resources/no_matches.png">
+
+## Summary
 
 A drawback of this table is that it requires a knowledge of the values that each column contains in order to use the filter function. For this reason, it would only be useful to an analyst who is seeking specific data from the table. This table would not be useful for exploratory research because the user must know exactly what they are looking for (and how it is formatted) prior to using the filters.
 
