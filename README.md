@@ -6,6 +6,7 @@ Dana, a data journalist, is working on a research article about UFO sightings. I
 <br>
 The purpose of this assignment was to use JavaScript’s visual functionality to display this data as a table and provide more in-depth analysis of the UFO sightings by allowing the website users to filter the table by multiple criteria at the same time. 
 <br><br>
+
 ## Results
 <br>
 Using this new webpage, we are able to filter by one or multiple search parameters based on the user’s area or areas of focus in the dataset.<br> 
@@ -14,6 +15,7 @@ Using this new webpage, we are able to filter by one or multiple search paramete
 <br>
 To start, the user enters their desired filter. By pushing ‘tab’ or ‘enter’ on their keyboard or simply clicking outside of the input box, the website responds immediately, showcasing only the rows of data that contain the filter entered by the user. The user is also able to refine their search by adding additional filters that are more specific to their data of interest.
 <br>
+
 After entering a filter, if the table showcases no data then one of the following errors has occurred:
 1.	The filter entered is spelled or formatted incorrectly. 
 2.	The filter entered does not exist in this table’s data.
