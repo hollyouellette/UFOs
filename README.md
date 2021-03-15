@@ -1,11 +1,11 @@
 # UFO Sightings
 
 ## Overview of the Project
-
+<br>
 Dana, a data journalist, is working on a research article about UFO sightings. In the end, she will be showcasing her article online, displayed on a webpage alongside a table of data to support her findings. The JavaScript file that holds the data that Dana will be using contains many pieces of information regarding UFO sightings, including countries, cities, states and the type of siting. 
-
+<br>
 The purpose of this assignment was to use JavaScript’s visual functionality to display this data as a table and provide more in-depth analysis of the UFO sightings by allowing the website users to filter the table by multiple criteria at the same time. 
-
+<br><br>
 ## Results
 <br>
 Using this new webpage, we are able to filter by one or multiple search parameters based on the user’s area or areas of focus in the dataset.<br> 
