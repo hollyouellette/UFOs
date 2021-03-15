@@ -9,7 +9,7 @@
 
 ## Results
 <br>
-<img align="right" width=600 src="https://github.com/hollyouellette/UFOs/blob/main/resources/multiple_filters.png">
+<img align="right" width=550 src="https://github.com/hollyouellette/UFOs/blob/main/resources/multiple_filters.png">
 Using this new webpage, we are able to filter by one or multiple search parameters based on the user’s area or areas of focus in the dataset.<br> 
 
 <br>
@@ -23,9 +23,9 @@ After entering a filter, if the table showcases no data then one of the followin
 <br>
 
 _Example:_<br>
-<p align="center">
-<img width=800 src="https://github.com/hollyouellette/UFOs/blob/main/resources/no_matches.png">
-</p>
+
+<img width=600 src="https://github.com/hollyouellette/UFOs/blob/main/resources/no_matches.png">
+
 
 ## Summary
 <br>
