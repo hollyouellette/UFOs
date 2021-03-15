@@ -9,9 +9,10 @@
 
 ## Results
 <br>
+<img align="right" width=600 src="https://github.com/hollyouellette/UFOs/blob/main/resources/multiple_filters.png">
 Using this new webpage, we are able to filter by one or multiple search parameters based on the user’s area or areas of focus in the dataset.<br> 
 
-<br><img align="right" width=600 src="https://github.com/hollyouellette/UFOs/blob/main/resources/multiple_filters.png">
+<br>
 To start, the user enters their desired filter. By pushing ‘tab’ or ‘enter’ on their keyboard or simply clicking outside of the input box, the website responds immediately, showcasing only the rows of data that contain the filter entered by the user. The user is also able to refine their search by adding additional filters that are more specific to their data of interest.
 <br><br>
 
