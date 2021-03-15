@@ -30,6 +30,7 @@ _Example:_<br>
 <br>
 A drawback of this table is that it requires a knowledge of the values that each column contains in order to use the filter function. For this reason, it would only be useful to an analyst who is seeking specific data from the table. This table would not be useful for exploratory research because the user must know exactly what they are looking for (and how it is formatted) prior to using the filters.
 <br><br>
+
 **Two recommendations for further development:**
 <br><br>
 1.	Introduce the functionality to sort the data based on the filter-able column values (eg. sort table by date). This would enable a user to identify trends in the data based on the column values they are using to sort. <br><br>
