@@ -14,13 +14,14 @@ Using this new webpage, we are able to filter by one or multiple search paramete
 
 <br>
 To start, the user enters their desired filter. By pushing ‘tab’ or ‘enter’ on their keyboard or simply clicking outside of the input box, the website responds immediately, showcasing only the rows of data that contain the filter entered by the user. The user is also able to refine their search by adding additional filters that are more specific to their data of interest.
-<br>
+<br><br>
 
 After entering a filter, if the table showcases no data then one of the following errors has occurred:
 1.	The filter entered is spelled or formatted incorrectly. 
 2.	The filter entered does not exist in this table’s data.
 3.	The filter parameters are too specific and there is no row within the table that matches all of the conditions.
 <br>
+
 _Example:_<br>
 <img align="center" width=600 src="https://github.com/hollyouellette/UFOs/blob/main/resources/no_matches.png">
 
