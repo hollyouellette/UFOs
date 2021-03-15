@@ -8,8 +8,8 @@ The purpose of this assignment was to use JavaScript’s visual functionality to
 
 ## Results
 <p>
-    <img align="right" width=400 src="https://github.com/hollyouellette/UFOs/blob/main/resources/filter_search_list.png" alt>
-    <em>Fig 1 - Empty filters showcasing the entire dataset on the table</em>
+    <img align="right" width=400 src="https://github.com/hollyouellette/UFOs/blob/main/resources/filter_search_list.png" alt><br>
+    <em align="right">Fig 1 - Empty filters showcasing the entire dataset on the table</em>
 </p>
 
 Using this new webpage, we are able to filter by one or multiple search parameters based on the user’s area or areas of focus in the dataset.<br> 
